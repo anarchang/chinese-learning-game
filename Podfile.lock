@@ -1,0 +1,15 @@
+PODS:
+  - SnapKit (3.2.0)
+  - SwiftGifOrigin (1.6.1)
+
+DEPENDENCIES:
+  - SnapKit
+  - SwiftGifOrigin
+
+SPEC CHECKSUMS:
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SwiftGifOrigin: d6679d3ebe9df2e049a84bc52582635107b581f6
+
+PODFILE CHECKSUM: b52a7f0299eb48296e08ce53c628a366e487cf6b
+
+COCOAPODS: 1.2.1
